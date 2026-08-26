@@ -4,7 +4,7 @@
 
 This repository contains **NiAD-Large**, a dataset developed for **night-time accident classification**. The dataset is designed to support research in night-time accident detection, anomaly detection, and intelligent transportation systems.
 
-NiAD-Large contains **13,227 annotated frames** representing diverse night-time traffic and accident scenarios.
+NiAD-Large contains **13,227 annotated frames** representing diverse night-time accident scenarios.
 
 ## Annotations
 
